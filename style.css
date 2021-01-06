@@ -72,3 +72,16 @@ p {
 .links:hover {
     background-color: red;
 }
+
+html{
+    scroll-behavior:smooth;    
+}
+
+a { text-decoration: none;   
+}
+.anchor:hover {
+    background-color: red;
+}  
+
+    
+
